@@ -1,5 +1,8 @@
 ## About The Project
 
+Use the link below to view the project
+https://nbviewer.org/github/alghalia/challenge_11/blob/main/forecasting_net_prophet.ipynb
+
 This application analyse the financials and the user data of MercadoLibre which is the most popular e-commerce site in Latin America. It analyse the data in clever ways to make the company grow. we will predict search traffic that can translate into the ability to successfully trade the stock.
 
 
