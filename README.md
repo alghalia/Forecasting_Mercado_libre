@@ -1,9 +1,11 @@
+#Forecasting_Mercado_libre
+
 ## About The Project
 
 Use the link below to view the project
-https://nbviewer.org/github/alghalia/challenge_11/blob/main/forecasting_net_prophet.ipynb
+https://nbviewer.org/github/alghalia/Forecasting_Mercado_libre/blob/main/forecasting_net_prophet.ipynb
 
-This application analyse the financials and the user data of MercadoLibre which is the most popular e-commerce site in Latin America. It analyse the data in clever ways to make the company grow. we will predict search traffic that can translate into the ability to successfully trade the stock.
+This application analyzes the financials and the user data of MercadoLibre which is the most popular e-commerce site in Latin America. It analyses the data in clever ways to make the company grow. we will predict search traffic that can translate into the ability to successfully trade the stock.
 
 
 ## Built With
@@ -16,7 +18,7 @@ This application analyse the financials and the user data of MercadoLibre which 
 * Python JupyterLab
 
 Usage
-This application analyse the financials and the user data of MercadoLibre which is the most popular e-commerce site in Latin America. It analyse the data in clever ways to make the company grow. we will predict search traffic that can translate into the ability to successfully trade the stock.
+This application analyse the financials and the user data of MercadoLibre which is the most popular e-commerce site in Latin America. It analyses the data in clever ways to make the company grow. we will predict search traffic that can translate into the ability to successfully trade the stock.
 
 Step 1: Find unusual patterns in hourly Google search traffic
 
